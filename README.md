@@ -1,12 +1,12 @@
 # alexa-tasks
-Created a new repo for alexa tasks.
+1.Created a new repo for alexa tasks.
 
-uploaded a master branch using git
+2.Uploaded a master branch using git
 
-created a new latestversion branch
+3.Created a new latestversion branch
 
-created a PR and merged the branches
+4.Created a PR and merged the branches
 
-deleted the latestversion branch
+5.Deleted the latestversion branch
 
-added a README.md
+6.Added a README.md
