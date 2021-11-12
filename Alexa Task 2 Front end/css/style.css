@@ -1,0 +1,83 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    word-spacing: 1em;
+    color: black;
+}
+.icon
+{
+    width: 35px;
+    height: 25px;
+    cursor: pointer;
+}
+.mainbg
+{
+    width: 70%;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 0 20px;
+}
+.navbar ul li a{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#home{
+    height: 80vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.main h1{
+    font-size: 30px;
+    width: 22rem;
+    color: rgb(99, 99, 99);
+}
+.main p{
+    margin-top: 15px;
+    font-size: 15px;
+    color: rgb(131, 130, 130);
+}
+.email{
+    border-width: 0 0 3px;
+    border-color: black;
+    width: 75%;
+    margin: 20px 0px;
+    margin-right: auto;
+    outline: 0;
+}
+.main button{
+    border: none;
+    width: 8rem;
+    background-color: yellow;
+    padding: 15px 15px 15px;
+    font-size: 2vh;
+    cursor:pointer;
+}
+.footer{
+    position:relative;
+    width: 100%;
+    height: 180px;
+    background-position: center;
+
+}
+.footer img{
+    width: 100vw;
+}
